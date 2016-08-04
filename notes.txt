@@ -1,0 +1,2 @@
+/tweets displays all tweets from all users
+/tweets/<user> displys all tweets by that user
